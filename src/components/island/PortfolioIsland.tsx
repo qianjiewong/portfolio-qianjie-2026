@@ -24,8 +24,8 @@ const projects = [
     number: "02",
     title: "Open Data Maturity AI Framework",
     description:
-      "An AI-powered retrieval-augmented generation (RAG) framework for retrieving evidence, evaluating open data maturity, and generating structured country-level assessments aligned with benchmark criteria.",
-    stack: "Python · LLM · RAG · ChromaDB · Streamlit",
+      "An AI-powered (LLM) retrieval-augmented generation (RAG) framework for retrieving evidence, evaluating open data maturity, and generating structured country-level assessments aligned with benchmark criteria.",
+    stack: "Python · LLM · RAG · ChromaDB · Streamlit · Prompt Engineering",
     image: odm.url,
     imageWidth: 1122,
     imageHeight: 1402,
@@ -119,13 +119,25 @@ export function PortfolioIsland() {
         <h2>Building useful software with clarity, care, and a strong point of view.</h2>
         <div>
           <span>Python / AI / RAG</span>
-          <span>TypeScript / React</span>
-          <span>Next.js / Node.js</span>
-          <span>PostgreSQL / Supabase</span>
-          <span>ChromaDB / Vector Search</span>
-          <span>LLMs / Prompt Engineering</span>
-          <span>Git / GitHub</span>
-          <span>UI / Product Design</span>
+          <span>TypeScript / JavaScript</span>
+          <span>Java / C / C++</span>
+          <span>SQL / Data Processing</span>
+
+          <span>Angular / Next.js</span>
+          <span>Streamlit / Electron</span>
+
+          <span>Firebase / MongoDB</span>
+          <span>Supabase / ChromaDB</span>
+
+          <span>LLMs / Semantic Search</span>
+          <span>Sentence Embeddings / SBERT</span>
+          <span>Vector Databases / Vector Search</span>
+          <span>TF-IDF / Cosine Similarity</span>
+
+          <span>REST APIs / API Integration</span>
+          <span>Real-Time Data Synchronisation</span>
+
+          <span>Git / Version Control</span>
         </div>
       </section>
 
